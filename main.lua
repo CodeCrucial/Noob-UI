@@ -12718,6 +12718,9 @@ aa:SetLanguage(ao.Language)
 function aa.CreateWindow(ax,ay)
 local az=a.load'Z'
 
+Window:SetBackgroundImage("rbxassetid://32578004")
+end
+
 if not isfolder"WindUI"then
 makefolder"WindUI"
 end
