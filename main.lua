@@ -12572,6 +12572,8 @@ warn"You cannot create more than one window"
 return
 end
 
+Window:SetBackgroundImage("rbxassetid://32578004")
+
 local aA=true
 
 local aB=aa.Themes[ay.Theme or"Dark"]
