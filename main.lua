@@ -3531,11 +3531,12 @@ Size=UDim2.new(1,0,1,0),
 ImageTransparency=.97,
 }),
 ab.NewRoundFrame(aj,"Glass-1.4",{
-ThemeTag={
-ImageColor3="Outline",
-},
-Size=UDim2.new(1,0,1,0),
-ImageTransparency=.75,
+    ThemeTag={
+        ImageColor3="TabBorder",
+        ImageTransparency="TabBorderTransparency"
+    },
+    Size=UDim2.new(1,0,1,0),
+    ImageTransparency=.75,
 },{
 
 
