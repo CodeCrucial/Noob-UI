@@ -3412,7 +3412,7 @@ Text=Color3.fromHex("#E5E5FF"), -- soft white with a hint of cool tone
 Placeholder=Color3.fromHex("#7a7a7a"),
 Background=Color3.fromHex("#101010"),
 Button=Color3.fromHex("#3F3F4A"), -- muted purple-gray blend
-Icon=Color3.fromHex("#AE5CDB"), -- pastel purple accent from the logo
+Icon=Color3.fromHex("#9A56D6"), -- pastel purple accent from the logo
 },
 CottonCandy={
 Name="Cotton Candy",
