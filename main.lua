@@ -3402,17 +3402,17 @@ Background=Color3.fromHex"#0c0404",
 Button=Color3.fromHex"#991b1b",
 Icon=Color3.fromHex"#dc2626",
 },
-MonokaiPro={
-Name="Monokai Pro",
+Main={
+Name = "Main",
 
-Accent=Color3.fromHex"#fc9867",
-Dialog=Color3.fromHex"#1e1e1e",
-Outline=Color3.fromHex"#78dce8",
-Text=Color3.fromHex"#fcfcfa",
-Placeholder=Color3.fromHex"#6f6f6f",
-Background=Color3.fromHex"#191622",
-Button=Color3.fromHex"#ab9df2",
-Icon=Color3.fromHex"#a9dc76",
+Accent=Color3.fromHex("#18181b"), -- base dark tone
+Dialog=Color3.fromHex("#161616"),
+Outline=Color3.fromHex("#FFFFFF"), -- matches the white top of the logo
+Text=Color3.fromHex("#E5E5FF"), -- soft white with a hint of cool tone
+Placeholder=Color3.fromHex("#7a7a7a"),
+Background=Color3.fromHex("#101010"),
+Button=Color3.fromHex("#3F3F4A"), -- muted purple-gray blend
+Icon=Color3.fromHex("#B0A0FF"), -- pastel purple accent from the logo
 },
 CottonCandy={
 Name="Cotton Candy",
