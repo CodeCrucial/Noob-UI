@@ -3411,7 +3411,7 @@ Outline=Color3.fromHex("#FFFFFF"), -- matches the white top of the logo
 Text=Color3.fromHex("#E5E5FF"), -- soft white with a hint of cool tone
 Placeholder=Color3.fromHex("#7a7a7a"),
 Background=Color3.fromHex("#101010"),
-Button=Color3.fromHex("#3F3F4A"), -- muted purple-gray blend
+Button=Color3.fromHex("#C62828"), -- muted purple-gray blend
 Icon=Color3.fromHex("#A021E0"), -- pastel purple accent from the logo
 },
 CottonCandy={
